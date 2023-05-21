@@ -6,5 +6,5 @@ inputs:
     required: false
     default: 'true'
 runs:
-  using: 'node12'
-  main: 'index.js'
+  using: 'python'
+  main: 'index.py'
